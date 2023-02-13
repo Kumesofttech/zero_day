@@ -7,3 +7,4 @@
 * What is Ubunto
 * Who wrote vagrant
 * What does command uname do
+# zero_day
